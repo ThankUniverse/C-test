@@ -13,3 +13,5 @@ faisant le raccord avec l'image principale.
 ## A propos des Update
 
 J'entreprend d'amélioré la version en rajoutant un hover changeant l'image principale lorsqu'on passera sur le logo et de rajouté des effets de style sur toute la page.
+
+(https://thankuniverse.github.io/My-CV/)
